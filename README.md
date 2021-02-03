@@ -1,1 +1,1 @@
-# Learn for codes
+# init codes repository
